@@ -16,7 +16,7 @@ function RootLayout() {
             <div className="flex justify-between items-baseline px-3 lg:hidden ">
               <h1 className=" font-bold font-mono  pb-5 text-2xl">
                 {" "}
-                MonSoon Weather App
+                Omni Weather App
               </h1>
               <h3 className="text-neutral-400 text-xs text-end">
                 Powered by{" "}
